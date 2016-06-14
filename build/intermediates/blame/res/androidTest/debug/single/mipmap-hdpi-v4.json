@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ysq/AndroidStudioProjects/Utils/android-utils/build/intermediates/res/merged/androidTest/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/ysq/AndroidStudioProjects/Utils/android-utils/build/intermediates/bundles/debug/res/mipmap-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ysq/AndroidStudioProjects/Utils/app/build/intermediates/res/merged/androidTest/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/ysq/AndroidStudioProjects/Utils/app/build/intermediates/bundles/debug/res/mipmap-hdpi-v4/ic_launcher.png"
+    }
+]
